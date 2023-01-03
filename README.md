@@ -12,4 +12,5 @@ ExtendScript:<br>
 UXP:<br>
 - https://developer.adobe.com/photoshop/uxp/2022/
 - https://www.youtube.com/watch?v=QP_0VzcFOa4
+- https://www.youtube.com/watch?v=iKscIEdRcII&list=PL0qACgPuF8dVQgUutWJJAGQU4PSOs5qHd
 
