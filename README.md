@@ -1,5 +1,5 @@
 # GrassActionsForPhotoshop
-A set of tools that allow you to use Grass functionality from within Photoshop
+A set of tools that allows you to use Grass functionality from within Photoshop
 
 ## Installation
 
